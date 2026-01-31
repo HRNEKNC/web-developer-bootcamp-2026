@@ -37,4 +37,4 @@ This repository documents my comprehensive journey through Colt Steele's **Web D
 
 ---
 
-_Developed by a passionate Software Engineering Student._
+_Developed by a passionate CTIS - Information Systems and Technologies Student._
