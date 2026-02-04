@@ -30,7 +30,7 @@ This repository documents my comprehensive journey through Colt Steele's **Web D
 
 ### Phase 1: The Frontend
 
-- [✓] **HTML Essentials:** Semantic tags, forms, tables.
+- [x] **HTML Essentials:** Semantic tags, forms, tables.
 - [ ] **CSS Basics:** Selectors, box model, specificity.
 - [ ] **CSS Frameworks:** Bootstrap 5 grid & components.
 - [ ] **JavaScript Basics:** Variables, logic, loops.

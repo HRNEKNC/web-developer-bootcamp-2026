@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Register Form</title>
+</head>
+
+<body>
+
+    <h2>Race Registration!</h2>
+    <form action="/register">
+        <div>
+            <label for="first_name">First Name:</label>
+            <input type="text" id="first_name" name="first_name" required placeholder="Your first name" required>
+            <label for="last_name">Last Name:</label>
+            <input type="text" id="last_name" name="last_name" required placeholder="Your last name" required>
+        </div>
+        <h4>Choose Race Category:</h4>
+        <div>
+            <input type="radio" id="race_marathon" name="race_category" value="race_marathon">
+            <label for="race_marathon">Race Marathon</label>
+            <br>
+            <input type="radio" id="half_marathon" name="race_category" value="half_marathon">
+            <label for="half_marathon">Half Marathon</label>
+            <br>
+            <input type="radio" id="full_marathon" name="race_category" value="full_marathon">
+            <label for="full_marathon">Full Marathon</label>
+        </div>
+        <div>
+            <label for="email">Email Address:</label>
+            <input type="email" id="email" name="email" placeholder="Your email address" required>
+            <label for="password">Password:</label>
+            <input type="password" id="password" name="password" placeholder="password" required>
+        </div>
+        <div>
+            <label for="age">Select Age:</label>
+            <select name="age" id="age">
+                <option value="">Please Select Your Age</option>
+                <option value="18-25">18-25</option>
+                <option value="26-35">26-35</option>
+                <option value="36-45">36-45</option>
+                <option value="46+">46+</option>
+            </select>
+        </div>
+        <button>Register!</button>
+
+</body>
+
+</html>
