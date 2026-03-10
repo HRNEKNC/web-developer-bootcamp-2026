@@ -1,0 +1,102 @@
+/* section {
+    background-color: #bc6c25;
+    width: 800px;
+    height: 800px;
+}
+
+div {
+    background-color: #f0a500;
+    width: 50%;
+    height: 50%;
+}
+
+h1 {
+    font-size: 40px;
+    line-height: 200%;
+}
+
+h2 {
+    font-size: 2em;
+    margin-left: 1em;
+}
+
+h3 {
+    font-size: 1.5em;
+}
+
+p {
+    font-size: 1em;
+}
+
+article {
+    font-size: 20px;
+} */
+
+/* button {
+    background-color: rgb(32, 160, 160);
+    color: white;
+    font-size: 1em;
+    padding: 0 1em;
+    border-radius: 0.5em;
+} */
+
+* {
+    font-size: 30px;
+}
+
+ul {
+    font-size: 0.7em;
+}
+
+#percentages {
+    background-color: #7a7a7a;
+    width: 800px;
+    height: 800px;
+}
+
+#percentages div {
+    background-color: rgb(218, 157, 209);
+    width: 70%;
+    height: 20%;
+}
+
+#ems h2 {
+    font-size: 2em;
+    margin-left: 1em;
+}
+
+#ems h3 {
+    font-size: 1.5em;
+}
+
+#ems p {
+    font-size: 1em;
+}
+
+#ems {
+    font-size: 15px;
+}
+
+#ems ul {
+    font-size: 1.5em;
+}
+
+button {
+    font-size: 1em;
+    padding: 0 1em;
+    border-radius: 0.5em;
+    background-color: rgb(0, 116, 77);
+    color: white;
+}
+
+#rems h3 {
+    font-size: 3rem;
+}
+
+#rems h2 {
+    font-size: 2rem;
+}
+
+#rems ul {
+    font-size: 1.5rem;
+}

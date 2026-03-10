@@ -1,0 +1,77 @@
+* {
+    background-color: #afafaf;
+}
+
+h1 {
+    text-align: center;
+    font-weight: bolder;
+    text-decoration: blue underline wavy;
+    letter-spacing: 10px;
+    font-size: 80px;
+    font-family: Futura, Arial, sans-serif;
+}
+
+p {
+    font-weight: bold;
+    line-height: 2;
+}
+
+p a {
+    text-decoration: none;
+    color: rgb(119, 87, 0);
+}
+
+p a:hover {
+    text-decoration: underline;
+    color: red;
+}
+
+#range {
+    color: rgb(100, 0, 0);
+}
+
+input [type="password"] {
+    color: yellow;
+}
+
+a[href="https://www.google.com"] {
+    color: green;
+}
+
+p button:hover {
+    background-color: darkcyan;
+    color: brown;
+    text-decoration: line-through;
+}
+
+button:hover {
+    background-color: rgb(0, 73, 0);
+    color: white;
+    font-size: 10px;
+}
+
+button:active {
+    background-color: green;
+    color: red;
+}
+
+button {
+    background-color: saddlebrown !important;
+}
+
+p:nth-of-type(3n) {
+    color: rgb(0, 0, 255);
+}
+
+h2::first-letter {
+    font-size: 50px;
+}
+
+p::first-line {
+    color: red;
+}
+
+p::selection {
+    background-color: black;
+    color: white;
+}
