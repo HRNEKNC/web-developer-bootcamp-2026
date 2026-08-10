@@ -32,7 +32,7 @@ This repository documents my comprehensive journey through Colt Steele's **Web D
 
 - [x] **HTML Essentials:** Semantic tags, forms, tables.
 - [x] **CSS Basics:** Selectors, box model, specificity.
-- [ ] **CSS Frameworks:** Bootstrap 5 grid & components.
+- [x] **CSS Frameworks:** Bootstrap 5 grid & components.
 - [ ] **JavaScript Basics:** Variables, logic, loops.
 - [ ] **DOM Manipulation:** Events, interactive UI.
 - [ ] **Async JavaScript:** Promises, Async/Await, APIs.
